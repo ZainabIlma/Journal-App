@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: dev #the profile you want to make active dev or prod
