@@ -18,7 +18,11 @@ target/
 *.iws
 *.iml
 *.ipr
-
+# Ignore real config files
+# Ignore real config files
+journalApp/src/main/resources/application.yml
+journalApp/src/main/resources/application-dev.yml
+journalApp/src/main/resources/application-prod.yml
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
